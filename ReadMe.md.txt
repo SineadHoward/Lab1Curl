@@ -1,4 +1,12 @@
 Question2
+cURL, which stands for client URL and can be written as curl (which I’ll do for the remainder of the blog because I’m lazy), 
+is a command line tool for file transfer with a URL syntax. It supports a number of protocols including HTTP, HTTPS, FTP, and many more. 
+HTTP/HTTPS makes it a great candidate for interacting with APIs!
+
+curl can be used on just about any platform on any hardware that exists today. 
+This means, regardless of what you are running and where, the most basic curl commands should just work. None of the usual “it doesn’t work on my machine”.
+
+Question3
 curl -v https://odetocode.com/odetocode.jpg
 
 HTTP Request
